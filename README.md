@@ -4,7 +4,7 @@
 
 ## Description
 
-Backend API that functions like a social media site. Adding / removing users and thoughts. Demonstrated in Insomnia.
+Backend API that functions like a social media site by adding / removing users and thoughts. Demonstrated in Insomnia. Doesn't have a front end to function, but middleware is express.js and backend is node.
 
 ## Table of Contents
 
