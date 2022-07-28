@@ -17,12 +17,13 @@ Backend API that functions like a social media site. Adding / removing users and
 
 ## Installation
 
-npm install
+`md npm install `
 
 ## Usage
 
 Run code using
-npm start
+
+`md npm start `
 
 ## License
 
